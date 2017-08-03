@@ -1,0 +1,1 @@
+web: gunicorn Grapes.wsgi --log-file -
