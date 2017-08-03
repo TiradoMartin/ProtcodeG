@@ -34,7 +34,6 @@ SECRET_KEY = 'f593vu%(#my$t+7&j1&=-3i5t7pz^^k7#$djmy0+#%q$0x26=%'
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-f
 
 # Application definition
 
