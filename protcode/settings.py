@@ -137,6 +137,9 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+MEDIA_URL='/media/image/'
+CKEDITOR_UPLOAD_PATH="media/File/"
+CKEDITOR_CONFIGS = { 'default': { 'toolbar': None, }}
 
 
 #codigo heroku
