@@ -17,7 +17,7 @@ from django.conf.urls import url
 from django.contrib import admin
 
 urlpatterns = [
-    url(r'^/', admin.site.urls),
+    url(r'', admin.site.urls),
    # url(r'^adm/', temple.index.html),
      
 ]
