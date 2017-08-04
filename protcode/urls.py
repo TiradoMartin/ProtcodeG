@@ -18,6 +18,6 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-     url(r'', include('temple.index.html')),
+     url(r'', 'temple.index.html'),
 ]
 admin.site.site_header = ' Protcode Admin'
