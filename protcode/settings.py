@@ -79,11 +79,11 @@ WSGI_APPLICATION = 'protcode.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',# Add 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.
-        'NAME': 'd6ghqpucmnv14c',                      # Or path to database file if using sqlite3.
+        'NAME': 'd9ndlnbhtht59h',                      # Or path to database file if using sqlite3.
         # The following settings are not used with sqlite3:
-        'USER': 'measltnihekukq',
-        'PASSWORD': '8075dc0cf0c8ec60632544763d336dae0b2ea806b240275648b9f412da4e7581',
-        'HOST': 'ec2-107-20-188-239.compute-1.amazonaws.com',                      # Empty for localhost through domain sockets or '127.0.0.1' for localhost through TCP.
+        'USER': 'kuyrcrfcttyiwg',
+        'PASSWORD': 'c9fd4eecd063e17b3551e78d69d501653318918c1b3d067872d1fbb85879d1b1',
+        'HOST': 'ec2-23-21-85-76.compute-1.amazonaws.com',                      # Empty for localhost through domain sockets or '127.0.0.1' for localhost through TCP.
         'PORT': '5432',                      # Set to empty string for default.
     }
 }
